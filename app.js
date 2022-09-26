@@ -1,5 +1,7 @@
 "use strict";
 
+// Je suis du code sur la branche "develop"
+
 const addition = require('./index');
 
 console.log("Hello There !");
