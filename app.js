@@ -1,6 +1,7 @@
 "use strict";
 
 // Je suis du code sur la branche "MAster"
+// Je suis du code sur la branche "develop"
 
 const addition = require('./index');
 
